@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/siva19ksk/Breaking.git/static/css/main.5146c72f.css",
+    "main.js": "/siva19ksk/Breaking.git/static/js/main.f76b6218.js",
+    "static/media/spinner.gif": "/siva19ksk/Breaking.git/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/siva19ksk/Breaking.git/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/siva19ksk/Breaking.git/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/siva19ksk/Breaking.git/index.html",
+    "main.5146c72f.css.map": "/siva19ksk/Breaking.git/static/css/main.5146c72f.css.map",
+    "main.f76b6218.js.map": "/siva19ksk/Breaking.git/static/js/main.f76b6218.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5146c72f.css",
+    "static/js/main.f76b6218.js"
+  ]
+}
